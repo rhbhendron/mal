@@ -1,0 +1,8 @@
+[package]
+name = "MAL"
+version = "0.0.1"
+authors = [ "Jan Hendron <rhbhendron@gmail.com>" ]
+
+[[bin]]
+name = "step0_repl"
+path = "step0_repl.rs"
